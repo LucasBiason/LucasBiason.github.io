@@ -6,7 +6,7 @@ Esse projeto une diversos tutoriais, dicas e utilidades prontas para uso sobre P
 
 ## Estilo Python:
 
-<img src="https://github.com/LucasBiason/LucasBiason.github.io/blob/master/images.png" width='150px'> 
+<img src="https://LucasBiason.github.io/images.png" width='150px'> 
 
 Conjunto de Dicas, Padrões de Projetos e utilidades para se programar bem em Python.
 - Python de Maneira Eficiente [:orange_book:](https://github.com/LucasBiason/PadroesPython/blob/master/python_eficaz/boas_praticas.md)
@@ -17,7 +17,7 @@ Conjunto de Dicas, Padrões de Projetos e utilidades para se programar bem em Py
 
 ## Estilo Django:
 
-<img src="https://github.com/LucasBiason/LucasBiason.github.io/blob/master/django-logo-positive.png" width='100px'> 
+<img src="https://LucasBiason.github.io/django-logo-positive.png" width='100px'> 
 
 Conjunto de Classes, Mixins, padrões e utilidades para para Projetos Django
 
