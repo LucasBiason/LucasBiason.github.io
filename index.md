@@ -1,4 +1,15 @@
 
+---
+layout: page
+title: Boas Práticas de Projeto e Desenvolvimento em Python e Django
+description: "Página Principal."
+image:
+  feature: 876303.jpg
+  credit: site
+share: true
+modified: 2016-06-01T15:14:43-04:00
+---
+
 Boas Práticas de Projeto e Desenvolvimento em Python e Django
 ========
 
