@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Boas Práticas de Projeto e Desenvolvimento em Python e Django
