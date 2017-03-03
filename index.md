@@ -9,9 +9,8 @@ Esse projeto une diversos tutoriais, dicas e utilidades prontas para uso sobre P
 <img src="https://LucasBiason.github.io/images.png" width='150px'> 
 
 Conjunto de Dicas, Padrões de Projetos e utilidades para se programar bem em Python.
-- Python de Maneira Eficiente [:orange_book:](https://github.com/LucasBiason/PadroesPython/blob/master/python_eficaz/boas_praticas.md)
+- [Python de Maneira Eficiente:](https://lucasbiason.github.io/python_eficaz/boas_praticas.html)
 
-{{ site.baseurl }}{% link python_eficaz/boas_praticas.md %}
 - Padrões de Projeto (EM BREVE)
 - Utilidades (EM BREVE)
 
