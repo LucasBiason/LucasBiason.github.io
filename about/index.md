@@ -20,41 +20,10 @@ O Blog é hospedado com GitHub Pages e seu tema base é do HPSTR, um tema em Jek
 
 ## Sobre o autor:
 
-Meu Nome é Lucas Biason, sou desenvolvedor web, gosto de estudar sobre tecnologias e aprender coisas novas. Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. Nas horas vagas gosto de procurar tecnologias, escutar música e jogar. Sou programador com foco em Python e Django, mas gosto de programar com outras tecnologias também.
+Meu Nome é Lucas Biason, sou desenvolvedor web, formado em Engenharia de Computação com ênfase em software.gosto de estudar sobre tecnologias e aprender coisas novas. Me preocupo com qualidade de software e usabilidade, tendo sempre um foco na qualidade de código. Nas horas vagas gosto de procurar tecnologias, escutar música e jogar. Sou programador com foco em Python e Django, mas gosto de programar com outras tecnologias também.
 
 Atualmente trabalho na Leme Consultoria.
 
-E-mail: biasonlucky@hotmail.com 
+Meu e-mail de contato é biasonlucky@hotmail.com 
 
-## Conhecimentos
-
-* Python (Desde de 2013)
-* Django (Desde de 2013)
-* HTML e CSS 
-* Bootstrap
-* Javascript, JQuery
-* NodeJs
-* Java, JSP, Servlets, iReport
-* Banco de Dados (Postgresql, Oracle PL/SQL)
-* Sistemas de controle de versão (GIT)
-* Desenvolvimento Ágil (Scrum)
-* Inglês Intermediário, leitura e escrita.
-* Linux
-
-## Formação
-
-- 2009 -2013 Centro Universitário Fundação Santo André (Engenharia de Computação com ênfase em software). 
-- 2006 -2008 Colégio Singular (Ensino Médio com habilitação em Técnico de Informática). 
-
-## Cursos Extras
-
-* Oracle SQL (30 horas) - IT Training 
-* Oracle PL/SQL (40 Horas) - Ka Solution 
-* SAP ABAP (40 horas) – IT Training 
-* Java para Desenvolvimento Web (40 Horas) – Caelum 
-* Laboratório Java com testes JSF Web Services e Designer Patterns (25 Horas) – Caelum 
-* Desenvolvimento de Aplicativo Android – Caelum 
-* UX e Usabilidade Web (25 horas) - Caelum 
-* Design Patterns Python I (16 horas) - Alura
-* Design Patterns Python II (16 horas) - Alura
-* Aplicações WEB em JavaScript com Node.js e Express (20 horas) – Caelum 
+As tecnologias que tenho conhecimento: Python, Django, HTML e CSS, Bootstrap, Javascript, JQuery, NodeJs, GIT, Postgresql, Oracle PL/SQL, Java, JSP, Servlets, iReport.
