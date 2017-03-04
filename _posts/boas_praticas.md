@@ -6,8 +6,6 @@ modified: 2017-03-03T15:27:45-04:00
 tags: [python, code, eficiente]
 image:
   feature: abstract-10.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Um conjunto de dicas, retiradas de alguns livros, posts, tutioriais e experimentos. È um resumo com alguns exemplos e notas pessoais.
