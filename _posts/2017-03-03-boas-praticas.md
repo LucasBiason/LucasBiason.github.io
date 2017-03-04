@@ -5,7 +5,7 @@ description: "Menu Principal da Trilha de Python de Maneira Eficiente."
 modified: 2017-03-03T15:27:45-04:00
 tags: [python, code, eficiente]
 image:
-  feature: abstract-10.jpg
+  feature: 44689_794e_8.jpg
 ---
 
 Um conjunto de dicas, retiradas de alguns livros, posts, tutioriais e experimentos. È um resumo com alguns exemplos e notas pessoais.
