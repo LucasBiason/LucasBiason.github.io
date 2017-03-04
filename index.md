@@ -1,39 +1,43 @@
 ---
 layout: page
-title: Boas Práticas de Projeto e Desenvolvimento em Python e Django
-description: "Página Principal."
+title: StuffsCode - Boas Práticas de Projeto e Desenvolvimento
+description: "Página Principal"
 image:
-  feature: 876303.png
+  feature: capa001.jpg
 share: true
-modified: 2016-06-01T15:14:43-04:00
+omments: false
+modified: 2017-03-04T15:14:43-04:00
 ---
 
-Esse projeto une diversos tutoriais, dicas e utilidades prontas para uso sobre Python e Django. Inclui vivencia e uma pesquisa intensa para auxiliar a escrever um código melhor.
+{% for post in paginator.posts %}
+<article class="hentry">
+  <header>
+    {% if post.image.feature %}
+      <div class="entry-image-index">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+      </div><!-- /.entry-image -->
+    {% endif %}
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+      {% if site.reading_time %}
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        {% include read-time-index.html %}
+      </span><!-- /.entry-reading-time -->
+      {% endif %}
+    </div><!-- /.entry-meta -->
+    {% if post.link %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+    {% else %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+    {% endif %}
+  </header>
+  <div class="entry-content">
+    {{ post.content }}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}
 
-## Estilo Python:
-
-<img src="https://LucasBiason.github.io/images.png" width='150px'> 
-
-Conjunto de Dicas, Padrões de Projetos e utilidades para se programar bem em Python.
-- [Python de Maneira Eficiente:](https://lucasbiason.github.io/boas-praticas/)
-
-- Padrões de Projeto (EM BREVE)
-- Utilidades (EM BREVE)
-
-
-
-## Estilo Django:
-
-<img src="https://LucasBiason.github.io/django-logo-positive.png" width='100px'> 
-
-Conjunto de Classes, Mixins, padrões e utilidades para para Projetos Django
-
-- Boas Práticas (EM BREVE)
-- Mixins e Class-Based (EM BREVE)
-- APIs (EM BREVE)
-- Formatação (EM BREVE)
-- Utilidades (EM BREVE)
-- Componentes (EM BREVE)
-
+{% include pagination.html %}
 
 
