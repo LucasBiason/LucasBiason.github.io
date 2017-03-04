@@ -8,6 +8,7 @@ image:
   feature:  	python-logo-master-flat.png
 ---
 
+Vamos falar aqui sobre funçes em python, normais ou lambda
 No lugar de escrever expressões repeditas e de dificil visualização, crie uma função para organizar, melhor a legibilidade e reaproveitar o seu código.
 
 Exemplo: digamos que seja necessário decoficar parâmetros de uma url
@@ -185,8 +186,8 @@ Por que não usar lambda?
  ```
  Dá pra imaginar que quebra nossa princípio de simplicidade e legibilidade.
    
-###### Links úteis:
+## Links Úteis
 
-:clipboard: [RE em Python 2](https://docs.python.org/2/library/re.html)
+<div markdown="0"><a href="https://docs.python.org/2/library/re.html" class="btn btn-success">RE em Python 2</a></div>
+<div markdown="0"><a href="https://docs.python.org/3.5/library/re.html" class="btn btn-success">RE em Python 3</a></div>
 
-:clipboard: [RE em Python 3](https://docs.python.org/3.5/library/re.html)
