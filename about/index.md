@@ -15,7 +15,7 @@ Minha missão aqui é criar posts que ensinem, compartilhem e ajudem a resolver 
 O foco é Python e WEB. Tendo posts de Python, HTML, CSS, Javascript e Frameworks.
 
 O Blog é hospedado com GitHub Pages e seu tema base é do HPSTR, um tema em Jekyll que modifiquei segundo o que precisava para fazer do blog mais aconchegante. Segue o link do tema para créditos.
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+<div markdown="0"><a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
 
 ## Sobre o autor:
