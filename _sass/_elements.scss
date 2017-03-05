@@ -186,3 +186,22 @@ svg:not(:root) {
   border: 1px solid $comp-color;
   border-radius: 4px;
 }
+
+/* 
+   Alert Images
+   ========================================================================== */
+.img_thumb {
+    float: left;
+    height: 120px;
+    margin-bottom: 5px;
+    margin-left: 9px;
+    position: relative;
+    width: 97px;
+    border-radius: 3px;
+    line-height:120px;
+    text-align:center;
+}
+
+.img_thumb img {
+    vertical-align: middle;
+}
