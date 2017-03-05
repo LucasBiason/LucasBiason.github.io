@@ -8,9 +8,9 @@ modified: 2017-03-04
 ---
 
 ## Sobre o Blog:
-O Blog foi criado com o intuito de passar conhecimentos adquiridos e discutir novos, partindo de um projeto pessoal que planejei a um tempo depois que me formei.
+O Blog foi criado com o intuito de passar conhecimentos adquiridos e discutir novos, partindo de um projeto pessoal que planejei há um tempo depois que me formei.
 
-Minha missão aqui é criar posts que ensinem, compartilhem e ajudem a resolver problemas no cotidiano. Sempre vou aprendendo e buscando conhecimento e sempre vou tentar transmitir o máximo que conseguir com quem quiser. Aceitos sujestões e criticas. Espero que gostem do meu trabalho.
+Minha missão aqui é criar posts que ensinem, compartilhem e ajudem a resolver problemas no cotidiano. Sempre vou aprendendo e buscando conhecimento e sempre vou tentar transmitir o máximo que conseguir com quem quiser. Aceitos sugestões  e criticas. Espero que gostem do meu trabalho.
 
 O foco é Python e WEB. Tendo posts de Python, HTML, CSS, Javascript e Frameworks.
 
