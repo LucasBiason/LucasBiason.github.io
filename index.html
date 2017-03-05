@@ -9,7 +9,7 @@ comments: false
 modified: 2017-03-04T15:14:43-04:00
 ---
 <style>
-img {
+.high_column_img {
   max-width: 100%;
   height: auto;
 }
@@ -25,13 +25,13 @@ img {
   padding-right: 20px;
 }
 
-h1,
-h2 {
+.column.half h1,
+.column.half h2 {
   padding: 0;
   margin: 0;
 }
 
-h1 {
+.column.half h1 {
   font-size: 20px;
 }
 </style>
@@ -45,7 +45,7 @@ h1 {
     
     <div class="column half">
       <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-         <img src="{{ site.url }}/images/{{ post.image.feature }}" width="430" alt="{{ post.title }}">
+         <img class="high_column_img" src="{{ site.url }}/images/{{ post.image.feature }}" width="430" alt="{{ post.title }}">
       </a>
     </div>
     
