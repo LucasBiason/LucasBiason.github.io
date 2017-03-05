@@ -56,22 +56,7 @@ Um código de dificil manutenção e entendimento, fora que fere os princípios 
 Assim fica um pouco melhor de visualizar. Ainda podemos melhorar mais, mas o intuito aqui é mostrar o quanto criar funções auxiliares nos ajuda. Um nota, outros pontos do código usam a mesma ideia da _aux_reg_, ou seja, podemos reaproveitar essa validação nos outros trechos.
 
 <style>
-.img_thumb {
-    float: left;
-    height: 120px;
-    margin-bottom: 5px;
-    margin-left: 9px;
-    position: relative;
-    width: 147px;
-    background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 3px;
-    line-height:120px;
-    text-align:center;
-}
 
-.img_thumb img {
-    vertical-align: middle;
-}
 </style>
 <div style="display:inline-flex">
 <div class="img_thumb">
