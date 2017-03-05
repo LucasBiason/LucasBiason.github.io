@@ -5,7 +5,7 @@ description: "Falando sobre uso de funções de maneira eficaz em python."
 tags: [python, function, funções, lambda]
 modified: 2017-03-04
 image:
-  feature:  	python-logo-master-flat.png
+  feature: svg-animate-along-path-600.gif
 ---
 
 Vamos falar aqui sobre funçes em python, normais ou lambda
