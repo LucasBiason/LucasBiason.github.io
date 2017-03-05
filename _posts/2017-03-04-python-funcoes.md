@@ -8,7 +8,8 @@ image:
   feature: svg-animate-along-path-600.gif
 ---
 
-Vamos falar aqui sobre funçes em python, normais ou lambda
+Vamos falar aqui sobre funções em python, normais ou lambda, uma das dúvidas de quem esta começando é e qual tipo usar, onde usar e pra usar. Para programar de maneira eficiente algumas consideraçoes devem ser feitas...
+
 No lugar de escrever expressões repeditas e de dificil visualização, crie uma função para organizar, melhor a legibilidade e reaproveitar o seu código.
 
 Exemplo: digamos que seja necessário decoficar parâmetros de uma url
@@ -54,7 +55,16 @@ Um código de dificil manutenção e entendimento, fora que fere os princípios 
 ```
 Assim fica um pouco melhor de visualizar. Ainda podemos melhorar mais, mas o intuito aqui é mostrar o quanto criar funções auxiliares nos ajuda. Um nota, outros pontos do código usam a mesma ideia da _aux_reg_, ou seja, podemos reaproveitar essa validação nos outros trechos.
 
-**Dica:** quando você começar a dar Ctrl+c e Ctrl+v em trechos de códigos, analise se esses trechos não podem virar funções. Muitas vezes copiamos os mesmos trechos de código propagando logicas que podem estar centralizadas. Lembre-se, código repetido leva um trabalho manual e tempo para ser alterado quando precisa.
+<div style="display:block">
+<div style="float:left"><img src="https://LucasBiason.github.io/images/1488773766_caution.svg" width='50px'></div>
+<div style="float:right">**Dica:** quando você começar a dar Ctrl+c e Ctrl+v em trechos de códigos, analise se esses trechos não podem virar funções. Muitas vezes copiamos os mesmos trechos de código propagando logicas que podem estar centralizadas. Lembre-se, código repetido leva um trabalho manual e tempo para ser alterado quando precisa.</div>
+</div>
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
 
 ## Lambda versus Função:
 
