@@ -7,15 +7,6 @@ image:
   feature: 44689_794e_8.jpg
 ---
 
----
-layout: post-index
-title: Tag Archive
-description: "An archive of posts sorted by tag."
-comments: false
----
-
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags_list = site_tags | split:',' | sort %}
 
   {% capture this_word %}python{% endcapture %}
 	<article>
