@@ -13,18 +13,22 @@ modified: 2017-03-04T15:14:43-04:00
   
 {% for post in paginator.posts %}
   <article class="hentry">
-  <div class="columns spacing">
+  
+  <div class="columns spacing" style="border-bottom: 1px solid #ccc;margin-bottom: 3px;line-height: 1;">
+   <h2 style="margin-bottom: 0px;margin-top: 0px;">
+       <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a>
+   </h2>
+  </div>
     
-    <div class="column half">
+  <div class="column half-img">
       <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
          <img class="high_column_img" src="{{ site.url }}/images/{{ post.image.feature }}" width="430" alt="{{ post.title }}">
       </a>
-    </div>
+  </div>
     
-    <div class="column half">
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
-      <p>{{ post.description }}</p>
-    </div>
+  <div class="column half">
+     <p>{{ post.description }}</p>
+  </div>
     
   </div>
    </article>
