@@ -6,7 +6,7 @@ tags: [python, dict, dicionarios, dados]
 modified: 2017-03-05
 comments: true
 image:
-  feature: free-mountain-landscape-wallpaper.png
+  feature: capas/python-eficaz.gif
 ---
 
 O python tem uma sintaxe específica para dividir sequências em pedaços menores. O fatiamento permite acessar um subconjunto dos itens de uma sequência com muito menos esforço. 

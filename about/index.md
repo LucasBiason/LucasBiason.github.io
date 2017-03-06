@@ -2,9 +2,8 @@
 layout: page
 title: Sobre o Blog
 image:
-  feature: headerbg-screen.png
+  feature: capas/about.png
 comments: false
-modified: 2017-03-04
 ---
 
 ## Sobre o Blog:

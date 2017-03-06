@@ -7,7 +7,7 @@ modified: 2017-03-06
 
 comments: false
 image:
-  feature: up.png
+  feature: capas/python-eficaz.gif
 ---
 
 

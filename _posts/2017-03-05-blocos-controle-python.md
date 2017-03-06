@@ -6,7 +6,7 @@ tags: [python, exception, if/else]
 modified: 2017-03-05
 comments: true
 image:
-  feature: free-mountain-landscape-wallpaper.png
+  feature: capas/python-eficaz.gif
 ---
 
 **Dica:** Evite usar blocos else depois de laços for e White.

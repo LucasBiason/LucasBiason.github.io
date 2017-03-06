@@ -7,7 +7,7 @@ modified: 2017-03-05
 
 comments: false
 image:
-  feature: svg-animate-along-path-600.gif
+  feature: capas/python-eficaz.gif
 ---
 
 Vamos falar aqui sobre funções em python, normais ou lambda, uma das dúvidas de quem esta começando é e qual tipo usar, onde usar e pra usar. Para programar de maneira eficiente algumas consideraçoes devem ser feitas...
@@ -62,7 +62,7 @@ Assim fica um pouco melhor de visualizar. Ainda podemos melhorar mais, mas o int
 </style>
 <div style="display:inline-flex">
 <div class="img_thumb">
-   <img  class="images_class" src="https://LucasBiason.github.io/images/1488773766_caution.svg" width='50px'>
+   <img  class="images_class" src="https://LucasBiason.github.io/images/icons/alert.svg" width='50px'>
  </div>
  <div style="">
 Quando você começar a dar Ctrl+c e Ctrl+v em trechos de códigos, analise se esses trechos não podem virar funções. Muitas vezes copiamos os mesmos trechos de código propagando logicas que podem estar centralizadas. Lembre-se, código repetido leva um trabalho manual e tempo para ser alterado quando precisa.
