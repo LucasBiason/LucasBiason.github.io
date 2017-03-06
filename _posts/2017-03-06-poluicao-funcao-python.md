@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Eficaz #003 - Funções Auxiliares vs. Expressões Complexas"
+title: "Python Eficaz #003 - Poluição Visual em Funções"
 description: "Falando sobre uso de funções de maneira eficaz em python."
 tags: [python, function, funções]
 modified: 2017-03-06
