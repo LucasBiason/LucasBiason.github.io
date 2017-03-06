@@ -205,3 +205,33 @@ svg:not(:root) {
 .img_thumb img {
     vertical-align: middle;
 }
+
+/* 
+   Posts Home
+   ========================================================================== */
+
+.high_column_img {
+  max-width: 100%;
+  height: auto;
+}
+
+.column {
+  box-sizing: border-box;
+  float: left;
+}
+
+.column.half {
+  width: 50%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.column.half h1,
+.column.half h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.column.half h1 {
+  font-size: 20px;
+}
