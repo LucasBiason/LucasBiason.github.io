@@ -17,7 +17,7 @@ image:
     {% endif %}{% endfor %}
 		</ul>
 	</article><!-- /.hentry -->
-{% endunless %}
+
 
 Um conjunto de dicas, retiradas de alguns livros, posts, tutioriais e experimentos. È um resumo com alguns exemplos e notas pessoais.
 
