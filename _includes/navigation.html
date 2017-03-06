@@ -56,9 +56,9 @@
 	        {% else %}
 	        {% assign domain = site.url %}
 	    {% endif %}
-	    <li style="background-color={{ link.bgcolor }}">
+	    <li style="background:{{ link.bgcolor }}">
 		 <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
-			<img src="{{ domain }}{{ link.icon }}"> {{ link.title }}
+			<img src="{{ site.url }}/images/{{ link.icon }}"> {{ link.title }}
 		 </a>
 	    </li>
 	  {% endfor %}
