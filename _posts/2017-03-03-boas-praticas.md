@@ -2,11 +2,31 @@
 layout: post
 title: Python de Maneira Eficiente
 description: "Menu Principal da Trilha de Python de Maneira Eficiente."
-modified: 2017-03-03T15:27:45-04:00
 tags: [python, code, eficiente]
 image:
   feature: 44689_794e_8.jpg
 ---
+
+---
+layout: post-index
+title: Tag Archive
+description: "An archive of posts sorted by tag."
+comments: false
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+  {% capture this_word %}python{% endcapture %}
+	<article>
+	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
+		<ul>
+    {% for post in site.tags[this_word] %}{% if post.title != null %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endif %}{% endfor %}
+		</ul>
+	</article><!-- /.hentry -->
+{% endunless %}
 
 Um conjunto de dicas, retiradas de alguns livros, posts, tutioriais e experimentos. È um resumo com alguns exemplos e notas pessoais.
 
