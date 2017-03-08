@@ -2,7 +2,7 @@
 layout: post
 title: "Python Eficaz #001 - Dicas para Blocos de Controle"
 description: "Algumas dicas para iniciantes de como usar Blocos de Controle em python."
-tags: [python, exception, if/else]
+tags: [Python]
 modified: 2017-03-05
 comments: true
 image:
