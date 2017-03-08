@@ -10,8 +10,9 @@ modified: 2017-03-04T15:14:43-04:00
 ---
 
 <div class="container">
-  
-{% for post in paginator.posts %}
+
+{% capture this_word %}Trilha{% endcapture %}
+{% for post in site.tags[this_word] %}
   <article class="hentry">
   
   <span class="entry-tags">
