@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Eficaz #006 -Boas Práticas com Atributos e Métodos"
+title: "Python Eficaz #007 -Boas Práticas com Atributos e Métodos"
 description: "Discutindo sobre atributos e métodos em python."
 tags: [Python]
 modified: 2017-03-09
