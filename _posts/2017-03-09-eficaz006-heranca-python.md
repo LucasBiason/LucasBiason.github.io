@@ -105,7 +105,7 @@ class JsonMixin(object):
 class Pedido(JsonMixin): ...
 ```
 
-Os mixin-ns pode ser combinados, tornando simples criar hierarquias de classes utilitárias, por exemplo, podemos criar Mix-in para controlar data de cadastro e outro para log de alterações de registros das classes.
+Os mixin-ns pode ser combinados, tornando simples criar hierarquias de classes utilitárias, por exemplo, podemos criar Mix-in para controlar data de cadastro e outro para log de alterações de registros das classes ou slug, ou qualquer outra funcionalidade.
 
 ```python
 class Pedido(JsonMixin, CreateMixin, LogMixin): ...
