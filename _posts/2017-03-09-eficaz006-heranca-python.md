@@ -10,10 +10,11 @@ image:
   feature: capas/python-eficaz.gif
 ---
 
+O Python suporta um vasto leque em orientação a objetos, e uma funcionalidade polêmica é a herança múltipla. Falaremos aqui sobre dicas interessantes em herança e herança múltipla, quando, como e para o que utilizar. Assim como pequenas dicas relacionadas.
 
 ## Inicialize classes ancestrais com super
 
-Utilize sempre a função nativa super para inicializar classes ancestrais.
+Utilize sempre a função nativa super para inicializar classes ancestrais. Isso faz com que o algoritmo de interpretação do python faça seu trabalho de maneira correta e assegura a continuidade do processo do método na classe mãe.
 
 Em Python 2:
 ```python
@@ -23,15 +24,15 @@ class C(BaseClass):
         
 ```
 
-Em Python 3:
+Em Python 3: a versão mais recente do python, eliminou a necessidade (e incômodo) de ficar passando a classe como parâmetro do super, isso porque, ao contrário do Python 2, o __class__ já esta implementado nas classes por padrão.
 ```python
 class C(BaseClass):
     def __init__(self, arg1, arg2, ...):
-        super(__class__, self).__init__(arg1, arg2, ...)
+        super().__init__(arg1, arg2, ...)
         
 ```
 
-## Use o polimorfismo de @classmethod para construir objetos genericamente
+## @classmethod para construir objetos genericamente
 
 No Python, tanto objetos como classes podem sofrer mutações. O Polimorfismo de __@classmethod__ funciona da mesma maneira que o polimorfismo de método de instãncia, mas com vantagem de serem válidos para toda uma classe em vez de a cada um dos objetos individuais dela. 
 
