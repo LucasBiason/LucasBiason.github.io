@@ -389,18 +389,6 @@ header .entry-meta {
 	@include clearfix;
 }
 
-.read-more-header {
-	/*position: absolute;
-	top: -20px;
-	left: 0;
-	right: 0;
-	height: 35px;
-
-	a {
-		@extend .btn;
-	}*/
-}
-
 .read-more-content {
 	@include font-size(16);
 
