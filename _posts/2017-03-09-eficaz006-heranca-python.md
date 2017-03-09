@@ -9,7 +9,7 @@ image:
   feature: capas/python-eficaz.gif
 ---
 
-##
+## Introdução
 
 O Python suporta um vasto leque em orientação a objetos, e uma funcionalidade polêmica é a herança múltipla. Falaremos aqui sobre dicas interessantes em herança e herança múltipla, quando, como e para o que utilizar. Assim como pequenas dicas relacionadas.
 
