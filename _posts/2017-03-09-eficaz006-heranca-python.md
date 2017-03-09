@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Python Eficaz #006 - Boas Práticas em Herança"
-description: "Falando sobre dicas interessantes em herança e herança múltipla no python."
+description: "O Python suporta um vasto leque em orientação a objetos, e uma funcionalidade polêmica é a herança múltipla. Falaremos aqui sobre dicas interessantes em herança e herança múltipla, quando, como e para o que utilizar. Assim como pequenas dicas relacionadas."
 tags: [Python]
 modified: 2017-03-09
-
-comments: false
+comments: true
 image:
   feature: capas/python-eficaz.gif
 ---
+
+##
 
 O Python suporta um vasto leque em orientação a objetos, e uma funcionalidade polêmica é a herança múltipla. Falaremos aqui sobre dicas interessantes em herança e herança múltipla, quando, como e para o que utilizar. Assim como pequenas dicas relacionadas.
 
