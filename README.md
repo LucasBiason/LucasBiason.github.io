@@ -8,6 +8,11 @@ Programa: Python Eficaz:
 1. Python Eficaz #000 - Trabalhando com Sequências e Conjunto de Dados
 2. Python Eficaz #001 - Dicas para Blocos de Controle
 3. Python Eficaz #002 - Funções Auxiliares vs. Expressões Complexas
+4. Python Eficaz #003 - Poluição Visual em Funções
+5. Python Eficaz #004 - Boas Práticas com retornos em Funções
+6. Python Eficaz #005 - Quando Utilizar Classes em Python
+7. Python Eficaz #006 - Boas Práticas em Herança
+8. Python Eficaz #007 -Boas Práticas com Atributos e Métodos
 
 Programa: Python Testes:
 
