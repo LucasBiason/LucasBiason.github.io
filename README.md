@@ -1,56 +1,37 @@
 
-Boas Práticas de Projeto e Desenvolvimento em Python e Django
-========
+# Controle de Posts:
 
-Esse projeto une diversos tutoriais, dicas e utilidades prontas para uso sobre Python e Django. Inclui vivencia e uma pesquisa intensa para auxiliar a escrever um código melhor.
+- Trilha Python
 
-## Estilo Python:
+Programa: Python Eficaz:
 
-<img src="https://github.com/LucasBiason/PadroesPython/blob/master/images.png" width='150px'> 
+1. Python Eficaz #000 - Trabalhando com Sequências e Conjunto de Dados
+2. Python Eficaz #001 - Dicas para Blocos de Controle
+3. Python Eficaz #002 - Funções Auxiliares vs. Expressões Complexas
 
-Conjunto de Dicas, Padrões de Projetos e utilidades para se programar bem em Python.
-- Tutoriais:
- 1.  :us: __Learn Python Programming__ - The Definitive Guide [:orange_book:](https://www.programiz.com/python-programming)
- 2. __Pense em Python__ [:orange_book:](https://penseallen.github.io/PensePython2e/)
-- Python de Maneira Eficiente [:orange_book:](https://github.com/LucasBiason/PadroesPython/blob/master/python_eficaz/boas_praticas.md)
-- Padrões de Projeto (EM BREVE)
-- Utilidades (EM BREVE)
+Programa: Python Testes:
 
+1. Testes em Python #000 - Depuração em Python: Aprenda a usar PDB
+2. Testes em Python #001 - Deixe o python testar o seu código - Unittest
+3. Testes em Python #002 - Meu código precisa de otimização? é o que vamos descobrir
+4. Testes em Python #003 - Quem comeu a minha memória? Descubra vazamentos de memória com tracemalloc
+5. Testes em Python #004 - Realizando Análises Estáticas - seu código é bom?
+6. Testes em Python #005 - TDD em Python
 
+Programa: Python Snippets
 
-## Estilo Django:
+Programa: Python Tutorial
 
-<img src="https://github.com/LucasBiason/PadroesPython/blob/master/django-logo-positive.png" width='100px'> 
+- Trilha Django
 
-Conjunto de Classes, Mixins, padrões e utilidades para para Projetos Django
+Programa: Django Tutorial
 
-- Boas Práticas (EM BREVE)
-- Mixins e Class-Based (EM BREVE)
-- APIs (EM BREVE)
-- Formatação (EM BREVE)
-- Utilidades (EM BREVE)
-- Componentes (EM BREVE)
+Programa: Django Class Based
 
+Programa: AP Rest em Django
 
+- Trilha WEB
 
+Programa: NodeJs Tutorial
 
-## Links úteis (temporário):
-
-[The “local flavor” app](http://django-localflavor.readthedocs.io/en/latest/)
-
-[How to Extend Django User Model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#abstractbaseuser)
-
-[Angular Best Pratices](https://angular.jsnews.io/tips-and-best-practices-for-the-angularjs-framework-angular/)
-
-http://pythoncentral.io/how-to-build-strings-using-format/
-
-http://pythoncentral.io/what-is-the-difference-between-__str__-and-__repr__-in-python/
-
-http://pythoncentral.io/how-metaclasses-work-technically-in-python-2-and-3/
-
-https://julien.danjou.info/blog/2015/python-schema-validation-voluptuous
-
-https://julien.danjou.info/blog/2015/python-and-timezones
-
-//julien.danjou.info/blog/2015/python-retrying
-
+Programa: AngularJs Tutorial
