@@ -62,5 +62,6 @@ Programa: AngularJs Tutorial
 
 - Trilha Programação:
 
-1. Editando seus cdigos com Atom
+1. Editando seus códigos com Atom
 2. Plugins úteis para Atom
+3. Usando EMET no Atom e por que ele vai salvar sua vida
