@@ -7,3 +7,8 @@
   url: https://lucasbiason.github.io/trilha-python/
   bgcolor: 3776ab
   icon: logos/python-min.png
+
+- title: Trilha Django
+  url: https://lucasbiason.github.io/trilha-django/
+  bgcolor: 228B22
+  icon: logos/django-logo-positive.png
