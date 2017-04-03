@@ -79,7 +79,7 @@ class A:
     return self._b
 
   @b.setter
-  def b_setter(self, val):
+  def b(self, val):
     self._b = val
 
 a = A('123')
@@ -99,7 +99,7 @@ class Resistor:
     return self._ohms
 
   @b.setter
-  def ohms_setter(self, ohms):
+  def ohms(self, ohms):
     if ohms <=0:
         raise ValueError("Valores de ohms precisão ser maiores que zero")
     self._ohms = ohms
@@ -118,7 +118,7 @@ class FixedResistance(Resistor):
   # ...
 
   @b.setter
-  def ohms_setter(self, ohms):
+  def ohms(self, ohms):
     if hasattr(self,'_ohms'):
         raise AttributeError("Valores de ohms não podem ser alterados após o primeiro preenchimento")
     self._ohms = ohms
