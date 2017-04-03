@@ -9,6 +9,8 @@ image:
   feature: capas/python-eficaz.gif
 ---
 
+## Um bom Slicing 
+
 O python tem uma sintaxe específica para dividir sequências em pedaços menores. O fatiamento permite acessar um subconjunto dos itens de uma sequência com muito menos esforço. 
 
 Evite ser prolixo: não digite 0 para start ou o comprimento da lista para end.
