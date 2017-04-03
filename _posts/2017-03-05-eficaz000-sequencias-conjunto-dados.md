@@ -2,7 +2,7 @@
 layout: post
 title: "Python Eficaz #000 - Trabalhando com Sequências e Conjunto de Dados"
 description: "Falando sobre uso de abrangências, diconários e fatiamento em python."
-tags: [python, dict, dicionarios, dados]
+tags: [Python, Python Eficaz]
 modified: 2017-03-05
 comments: true
 image:

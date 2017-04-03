@@ -2,7 +2,7 @@
 layout: post
 title: "Python Eficaz #002 - Funções Auxiliares vs. Expressões Complexas"
 description: "Falando sobre uso de funções de maneira eficaz em python."
-tags: [python, function, funções, lambda]
+tags: [Python]
 modified: 2017-03-05
 
 comments: false

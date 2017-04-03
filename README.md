@@ -1,56 +1,67 @@
 
-Boas Práticas de Projeto e Desenvolvimento em Python e Django
-========
+# Controle de Posts:
 
-Esse projeto une diversos tutoriais, dicas e utilidades prontas para uso sobre Python e Django. Inclui vivencia e uma pesquisa intensa para auxiliar a escrever um código melhor.
+- Trilha Python
 
-## Estilo Python:
+Programa: Python Eficaz:
 
-<img src="https://github.com/LucasBiason/PadroesPython/blob/master/images.png" width='150px'> 
+1. [Python Eficaz #000 - Trabalhando com Sequências e Conjunto de Dados](https://lucasbiason.github.io/eficaz000-sequencias-conjunto-dados/)
+2. Python Eficaz #001 - Dicas para Blocos de Controle
+3. Python Eficaz #002 - Funções Auxiliares vs. Expressões Complexas
+4. Python Eficaz #003 - Poluição Visual em Funções
+5. Python Eficaz #004 - Boas Práticas com retornos em Funções
+6. Python Eficaz #005 - Quando Utilizar Classes em Python
+7. Python Eficaz #006 - Boas Práticas em Herança
+8. Python Eficaz #007 -Boas Práticas com Atributos e Métodos
 
-Conjunto de Dicas, Padrões de Projetos e utilidades para se programar bem em Python.
-- Tutoriais:
- 1.  :us: __Learn Python Programming__ - The Definitive Guide [:orange_book:](https://www.programiz.com/python-programming)
- 2. __Pense em Python__ [:orange_book:](https://penseallen.github.io/PensePython2e/)
-- Python de Maneira Eficiente [:orange_book:](https://github.com/LucasBiason/PadroesPython/blob/master/python_eficaz/boas_praticas.md)
-- Padrões de Projeto (EM BREVE)
-- Utilidades (EM BREVE)
+Programa: Python Testes:
+
+1. Testes em Python #000 - Depuração em Python: Aprenda a usar PDB
+2. Testes em Python #001 - Deixe o python testar o seu código - Unittest
+3. Testes em Python #002 - Meu código precisa de otimização? é o que vamos descobrir
+4. Testes em Python #003 - Quem comeu a minha memória? Descubra vazamentos de memória com tracemalloc
+5. Testes em Python #004 - Realizando Análises Estáticas - seu código é bom?
+6. Testes em Python #005 - TDD em Python e Django
+
+links de apoio:
+http://pythonclub.com.br/tdd-com-python-e-flask.html
+https://ericstk.wordpress.com/2013/06/24/tdd-com-python-como-aprender-de-forma-certa/
+https://dzone.com/articles/tdd-python-5-minutes
+http://www.obeythetestinggoat.com/pages/book.html
+https://pt.slideshare.net/fractalk/tdd-em-django-sem-desculpas-4854147
+https://pt.slideshare.net/osantana/tdd-com-python
+https://pt.slideshare.net/viniciusban/testes-pythonicos-com-pytest
 
 
+Programa: Python Snippets
 
-## Estilo Django:
+Programa: Python Tutorial
 
-<img src="https://github.com/LucasBiason/PadroesPython/blob/master/django-logo-positive.png" width='100px'> 
+Programa: Django Tutorial
 
-Conjunto de Classes, Mixins, padrões e utilidades para para Projetos Django
+Programa: Django Class Based
 
-- Boas Práticas (EM BREVE)
-- Mixins e Class-Based (EM BREVE)
-- APIs (EM BREVE)
-- Formatação (EM BREVE)
-- Utilidades (EM BREVE)
-- Componentes (EM BREVE)
+Programa: AP Rest em Django
 
 
+- Trilha Java Script
+
+Programa: NodeJs Tutorial
+
+Programa: AngularJs Tutorial
 
 
-## Links úteis (temporário):
+- Trilha WEB: HTML e CSS
 
-[The “local flavor” app](http://django-localflavor.readthedocs.io/en/latest/)
 
-[How to Extend Django User Model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#abstractbaseuser)
+- Trilha GIT
 
-[Angular Best Pratices](https://angular.jsnews.io/tips-and-best-practices-for-the-angularjs-framework-angular/)
 
-http://pythoncentral.io/how-to-build-strings-using-format/
+- Trilha Banco de Dados
 
-http://pythoncentral.io/what-is-the-difference-between-__str__-and-__repr__-in-python/
 
-http://pythoncentral.io/how-metaclasses-work-technically-in-python-2-and-3/
+- Trilha Programação:
 
-https://julien.danjou.info/blog/2015/python-schema-validation-voluptuous
-
-https://julien.danjou.info/blog/2015/python-and-timezones
-
-//julien.danjou.info/blog/2015/python-retrying
-
+1. Editando seus códigos com Atom
+2. Plugins úteis para Atom
+3. Usando EMET no Atom e por que ele vai salvar sua vida
