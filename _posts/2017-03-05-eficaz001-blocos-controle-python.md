@@ -2,12 +2,16 @@
 layout: post
 title: "Python Eficaz #001 - Dicas para Blocos de Controle"
 description: "Algumas dicas para iniciantes de como usar Blocos de Controle em python."
-tags: [Python]
+tags: [Python, Python Eficaz]
 modified: 2017-03-05
 comments: true
 image:
   feature: capas/python-eficaz.gif
 ---
+
+## Blocos de Controle
+
+Aqui apresentamos algumas dicas para iniciantes de como usar Blocos de Controle em python.
 
 **Dica:** Evite usar blocos else depois de laços for e White.
 Else é chamado imediatamente após a execução do laço " faça isso se o bloco anterior não falhou ". Isso pode causa uma má interpretação do código. Fora que inserir um comando break em um laço faz com que o bloco seja ignorado.
