@@ -6,7 +6,7 @@
 Programa: Python Eficaz:
 
 1. [Python Eficaz #000 - Trabalhando com Sequências e Conjunto de Dados](https://lucasbiason.github.io/eficaz000-sequencias-conjunto-dados/)
-2. Python Eficaz #001 - Dicas para Blocos de Controle(https://lucasbiason.github.io/eficaz001-blocos-controle-python/)
+2. [Python Eficaz #001 - Dicas para Blocos de Controle](https://lucasbiason.github.io/eficaz001-blocos-controle-python/)
 3. Python Eficaz #002 - Funções Auxiliares vs. Expressões Complexas
 4. Python Eficaz #003 - Poluição Visual em Funções
 5. Python Eficaz #004 - Boas Práticas com retornos em Funções
